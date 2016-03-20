@@ -121,6 +121,8 @@ public class GroupFaceUtil {
         localCanvas.setBitmap(canvasBitmap);
 
 
+
+
         int colum = 1;
         float scale = 1.0F / colum;
         // 根据列数缩小bitmap
